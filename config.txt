@@ -1,1 +1,1 @@
-login_method=sso
+login_method=oauth+sso
