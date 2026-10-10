@@ -1,1 +1,1 @@
-login_method=basic
+login_method=sso
